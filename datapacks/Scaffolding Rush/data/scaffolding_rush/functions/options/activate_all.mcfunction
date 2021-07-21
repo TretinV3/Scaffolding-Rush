@@ -1,0 +1,20 @@
+scoreboard players enable @a opt_preset
+scoreboard players enable @a opt_lava_speed
+scoreboard players enable @a opt_build_height
+scoreboard players enable @a opt_gravel
+scoreboard players enable @a opt_snowball
+scoreboard players enable @a opt_vil_respawn
+scoreboard players enable @a opt_vil_resp_cd
+scoreboard players enable @a opt_instant_pil
+scoreboard players enable @a opt_perf_mode
+scoreboard players enable @a opt_team_egg
+scoreboard players enable @a opt_wb_size_add
+scoreboard players enable @a opt_regen
+scoreboard players enable @a opt_fall_damage
+scoreboard players enable @a opt_random_team
+scoreboard players enable @a opt_team_number
+scoreboard players enable @a opt_resp_delay
+
+scoreboard players enable @a opt_island
+scoreboard players enable @a opt_island_first
+scoreboard players enable @a opt_island_spawn
